@@ -1,0 +1,9 @@
+{
+  "name": "ai-engineer-portfolio-projects",
+  "version": "1.0.0",
+  "private": true,
+  "description": "85+ Production-Grade AI Engineering Portfolio Projects curated by Shourya Goyal",
+  "scripts": {
+    "build": "echo 'Static build complete'"
+  }
+}
